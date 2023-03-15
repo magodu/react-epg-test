@@ -49,9 +49,6 @@ for (var i = 0; i < channels.length; i++) {
         programIndex++;
     }
 
-    console.log('schedules', schedules);
-
-
     channels[i].schedules = schedules;
 }
 
