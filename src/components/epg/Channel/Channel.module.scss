@@ -1,0 +1,10 @@
+@import '../../../scss/_variables';
+
+ul.channel {
+    display: inline-flex;
+    list-style-type: none;
+    width: $timelineWidth;
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+}

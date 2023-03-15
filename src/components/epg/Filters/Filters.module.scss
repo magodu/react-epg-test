@@ -1,0 +1,31 @@
+.filters {
+    padding: 0.5rem 2rem;
+    height: 8vh;
+    .date {
+        width: 20%;
+
+        select {
+            height: 30px;
+            padding: 2px;
+            color: white;
+            background: black;
+            font-size: 15px;
+
+            &:focus {
+                color: white;
+                background: black;
+                border-color: white;
+                outline: 0;
+                box-shadow: none;
+            }
+        }
+    }
+}
+
+
+@media (max-width: 768px) {
+
+    .filters .date {
+        width: 50%;
+    }
+}

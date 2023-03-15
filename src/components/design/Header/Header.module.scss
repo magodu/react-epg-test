@@ -1,0 +1,93 @@
+@import '../../../scss/_variables';
+
+.wrapper {
+    display: flex;
+    justify-content: space-between;
+    padding: 0.5rem 1rem;
+
+    .user {
+        flex: 1;
+        padding-top: 5px;
+
+        i {
+            font-size: 1.8rem;
+            cursor: pointer;
+            color: #d1d1d1;
+
+            &:hover {
+                color: white;
+            }
+        }
+    }
+
+    .logo {
+        flex: 1;
+        text-align: center;
+        img {
+            width: 3rem;
+            min-width: 60px;
+        }
+    }
+
+    .search {
+        flex: 1;
+
+        .search-box {
+            cursor: pointer;
+            height: 100%;
+            width: auto;
+            padding-top: 7px;
+
+            .search-input {
+                position: absolute;
+                right: 0;
+                margin-right: 8px;
+                background: #000000;
+                color: #fff;
+                outline: none;
+                border: none;
+                line-height: 40px;
+                width: 0px;
+                height: 40px;
+                float: right;
+                font-size: 1em;
+                transition: 0.7s ease;
+            }
+
+            .search-btn {
+                color: #d1d1d1;
+                background: #000000;
+                position: absolute;
+                right: 5px;
+                width: 40px;
+                height: 40px;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                text-decoration: none;
+                border-bottom-left-radius: 50px;
+                border-top-left-radius: 50px;
+                transition: 0.2s ease;
+
+                i {
+                    font-size: 1.2rem;
+                }
+            }
+        }
+
+        .search-box:hover > .search-input,
+        .search-input:focus {
+            width: 240px;
+            margin: 0px 8px;
+            background: #353535;
+            border: 1px solid #d1d1d1;
+            border-radius: 50px;
+            padding: 5px 40px 5px 10px;
+        }
+
+        .search-box:hover > .search-btn {
+            color: #ffffff;
+        }
+    }
+
+}

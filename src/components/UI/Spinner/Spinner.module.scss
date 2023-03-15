@@ -1,0 +1,13 @@
+.spinner {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    top: 50%;
+    width: 100%;
+    position: fixed;
+
+    .spinner-color {
+        color: white;
+    }
+}
+

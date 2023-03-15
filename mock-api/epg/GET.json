@@ -1,0 +1,2239 @@
+{
+    "channels": [
+        {
+            "id": "sky1",
+            "title": "Sky 1",
+            "images": {
+                "logo": "http://www.mariogonzalezduarte.es/nm-epg-images/logo-channels/c-channel.png"
+            },
+            "schedules": [
+                {
+                    "title": "Supernatural",
+                    "id": "dummy_program_id_0",
+                    "start": "2023-03-15T00:00:00+01:00",
+                    "end": "2023-03-15T00:20:00+01:00"
+                },
+                {
+                    "title": "Game of Thrones",
+                    "id": "dummy_program_id_1",
+                    "start": "2023-03-15T00:20:00+01:00",
+                    "end": "2023-03-15T01:10:00+01:00"
+                },
+                {
+                    "title": "Cool Stuff",
+                    "id": "dummy_program_id_2",
+                    "start": "2023-03-15T01:10:00+01:00",
+                    "end": "2023-03-15T01:50:00+01:00"
+                },
+                {
+                    "title": "Interesting Show",
+                    "id": "dummy_program_id_3",
+                    "start": "2023-03-15T01:50:00+01:00",
+                    "end": "2023-03-15T02:40:00+01:00"
+                },
+                {
+                    "title": "Vikings",
+                    "id": "dummy_program_id_4",
+                    "start": "2023-03-15T02:40:00+01:00",
+                    "end": "2023-03-15T03:00:00+01:00"
+                },
+                {
+                    "title": "Vikings",
+                    "id": "dummy_program_id_5",
+                    "start": "2023-03-15T03:00:00+01:00",
+                    "end": "2023-03-15T03:30:00+01:00"
+                },
+                {
+                    "title": "Interesting Show",
+                    "id": "dummy_program_id_6",
+                    "start": "2023-03-15T03:30:00+01:00",
+                    "end": "2023-03-15T03:50:00+01:00"
+                },
+                {
+                    "title": "Cool Stuff",
+                    "id": "dummy_program_id_7",
+                    "start": "2023-03-15T03:50:00+01:00",
+                    "end": "2023-03-15T04:40:00+01:00"
+                },
+                {
+                    "title": "Awesome Program",
+                    "id": "dummy_program_id_8",
+                    "start": "2023-03-15T04:40:00+01:00",
+                    "end": "2023-03-15T05:00:00+01:00"
+                },
+                {
+                    "title": "Interesting Show",
+                    "id": "dummy_program_id_9",
+                    "start": "2023-03-15T05:00:00+01:00",
+                    "end": "2023-03-15T05:40:00+01:00"
+                },
+                {
+                    "title": "Interesting Show",
+                    "id": "dummy_program_id_10",
+                    "start": "2023-03-15T05:40:00+01:00",
+                    "end": "2023-03-15T06:00:00+01:00"
+                },
+                {
+                    "title": "Cool Stuff",
+                    "id": "dummy_program_id_11",
+                    "start": "2023-03-15T06:00:00+01:00",
+                    "end": "2023-03-15T06:20:00+01:00"
+                },
+                {
+                    "title": "Cool Stuff",
+                    "id": "dummy_program_id_12",
+                    "start": "2023-03-15T06:20:00+01:00",
+                    "end": "2023-03-15T06:50:00+01:00"
+                },
+                {
+                    "title": "Game of Thrones",
+                    "id": "dummy_program_id_13",
+                    "start": "2023-03-15T06:50:00+01:00",
+                    "end": "2023-03-15T07:20:00+01:00"
+                },
+                {
+                    "title": "Vikings",
+                    "id": "dummy_program_id_14",
+                    "start": "2023-03-15T07:20:00+01:00",
+                    "end": "2023-03-15T08:00:00+01:00"
+                },
+                {
+                    "title": "Awesome Program",
+                    "id": "dummy_program_id_15",
+                    "start": "2023-03-15T08:00:00+01:00",
+                    "end": "2023-03-15T08:20:00+01:00"
+                },
+                {
+                    "title": "Cool Stuff",
+                    "id": "dummy_program_id_16",
+                    "start": "2023-03-15T08:20:00+01:00",
+                    "end": "2023-03-15T09:10:00+01:00"
+                },
+                {
+                    "title": "Interesting Show",
+                    "id": "dummy_program_id_17",
+                    "start": "2023-03-15T09:10:00+01:00",
+                    "end": "2023-03-15T09:30:00+01:00"
+                },
+                {
+                    "title": "Game of Thrones",
+                    "id": "dummy_program_id_18",
+                    "start": "2023-03-15T09:30:00+01:00",
+                    "end": "2023-03-15T09:50:00+01:00"
+                },
+                {
+                    "title": "Supernatural",
+                    "id": "dummy_program_id_19",
+                    "start": "2023-03-15T09:50:00+01:00",
+                    "end": "2023-03-15T10:20:00+01:00"
+                },
+                {
+                    "title": "Cool Stuff",
+                    "id": "dummy_program_id_20",
+                    "start": "2023-03-15T10:20:00+01:00",
+                    "end": "2023-03-15T10:50:00+01:00"
+                },
+                {
+                    "title": "Cool Stuff",
+                    "id": "dummy_program_id_21",
+                    "start": "2023-03-15T10:50:00+01:00",
+                    "end": "2023-03-15T11:20:00+01:00"
+                },
+                {
+                    "title": "Game of Thrones",
+                    "id": "dummy_program_id_22",
+                    "start": "2023-03-15T11:20:00+01:00",
+                    "end": "2023-03-15T11:50:00+01:00"
+                },
+                {
+                    "title": "Cool Stuff",
+                    "id": "dummy_program_id_23",
+                    "start": "2023-03-15T11:50:00+01:00",
+                    "end": "2023-03-15T12:20:00+01:00"
+                },
+                {
+                    "title": "Awesome Program",
+                    "id": "dummy_program_id_24",
+                    "start": "2023-03-15T12:20:00+01:00",
+                    "end": "2023-03-15T13:10:00+01:00"
+                },
+                {
+                    "title": "Cool Stuff",
+                    "id": "dummy_program_id_25",
+                    "start": "2023-03-15T13:10:00+01:00",
+                    "end": "2023-03-15T14:00:00+01:00"
+                },
+                {
+                    "title": "Game of Thrones",
+                    "id": "dummy_program_id_26",
+                    "start": "2023-03-15T14:00:00+01:00",
+                    "end": "2023-03-15T14:20:00+01:00"
+                },
+                {
+                    "title": "Interesting Show",
+                    "id": "dummy_program_id_27",
+                    "start": "2023-03-15T14:20:00+01:00",
+                    "end": "2023-03-15T14:50:00+01:00"
+                },
+                {
+                    "title": "Interesting Show",
+                    "id": "dummy_program_id_28",
+                    "start": "2023-03-15T14:50:00+01:00",
+                    "end": "2023-03-15T15:10:00+01:00"
+                },
+                {
+                    "title": "Game of Thrones",
+                    "id": "dummy_program_id_29",
+                    "start": "2023-03-15T15:10:00+01:00",
+                    "end": "2023-03-15T15:30:00+01:00"
+                },
+                {
+                    "title": "Supernatural",
+                    "id": "dummy_program_id_30",
+                    "start": "2023-03-15T15:30:00+01:00",
+                    "end": "2023-03-15T16:20:00+01:00"
+                },
+                {
+                    "title": "Interesting Show",
+                    "id": "dummy_program_id_31",
+                    "start": "2023-03-15T16:20:00+01:00",
+                    "end": "2023-03-15T16:40:00+01:00"
+                },
+                {
+                    "title": "Vikings",
+                    "id": "dummy_program_id_32",
+                    "start": "2023-03-15T16:40:00+01:00",
+                    "end": "2023-03-15T17:20:00+01:00"
+                },
+                {
+                    "title": "Game of Thrones",
+                    "id": "dummy_program_id_33",
+                    "start": "2023-03-15T17:20:00+01:00",
+                    "end": "2023-03-15T17:50:00+01:00"
+                },
+                {
+                    "title": "Game of Thrones",
+                    "id": "dummy_program_id_34",
+                    "start": "2023-03-15T17:50:00+01:00",
+                    "end": "2023-03-15T18:40:00+01:00"
+                },
+                {
+                    "title": "Cool Stuff",
+                    "id": "dummy_program_id_35",
+                    "start": "2023-03-15T18:40:00+01:00",
+                    "end": "2023-03-15T19:30:00+01:00"
+                },
+                {
+                    "title": "Awesome Program",
+                    "id": "dummy_program_id_36",
+                    "start": "2023-03-15T19:30:00+01:00",
+                    "end": "2023-03-15T20:00:00+01:00"
+                },
+                {
+                    "title": "Interesting Show",
+                    "id": "dummy_program_id_37",
+                    "start": "2023-03-15T20:00:00+01:00",
+                    "end": "2023-03-15T20:50:00+01:00"
+                },
+                {
+                    "title": "Vikings",
+                    "id": "dummy_program_id_38",
+                    "start": "2023-03-15T20:50:00+01:00",
+                    "end": "2023-03-15T21:30:00+01:00"
+                },
+                {
+                    "title": "Vikings",
+                    "id": "dummy_program_id_39",
+                    "start": "2023-03-15T21:30:00+01:00",
+                    "end": "2023-03-15T22:20:00+01:00"
+                },
+                {
+                    "title": "Game of Thrones",
+                    "id": "dummy_program_id_40",
+                    "start": "2023-03-15T22:20:00+01:00",
+                    "end": "2023-03-15T23:00:00+01:00"
+                },
+                {
+                    "title": "Vikings",
+                    "id": "dummy_program_id_41",
+                    "start": "2023-03-15T23:00:00+01:00",
+                    "end": "2023-03-15T23:30:00+01:00"
+                }
+            ]
+        },
+        {
+            "id": "silver",
+            "title": "Silver",
+            "images": {
+                "logo": "http://www.mariogonzalezduarte.es/nm-epg-images/logo-channels/five-channel.png"
+            },
+            "schedules": [
+                {
+                    "title": "Interesting Show",
+                    "id": "dummy_program_id_42",
+                    "start": "2023-03-15T00:00:00+01:00",
+                    "end": "2023-03-15T00:50:00+01:00"
+                },
+                {
+                    "title": "Supernatural",
+                    "id": "dummy_program_id_43",
+                    "start": "2023-03-15T00:50:00+01:00",
+                    "end": "2023-03-15T01:10:00+01:00"
+                },
+                {
+                    "title": "Vikings",
+                    "id": "dummy_program_id_44",
+                    "start": "2023-03-15T01:10:00+01:00",
+                    "end": "2023-03-15T01:50:00+01:00"
+                },
+                {
+                    "title": "Cool Stuff",
+                    "id": "dummy_program_id_45",
+                    "start": "2023-03-15T01:50:00+01:00",
+                    "end": "2023-03-15T02:10:00+01:00"
+                },
+                {
+                    "title": "Cool Stuff",
+                    "id": "dummy_program_id_46",
+                    "start": "2023-03-15T02:10:00+01:00",
+                    "end": "2023-03-15T02:30:00+01:00"
+                },
+                {
+                    "title": "Game of Thrones",
+                    "id": "dummy_program_id_47",
+                    "start": "2023-03-15T02:30:00+01:00",
+                    "end": "2023-03-15T03:00:00+01:00"
+                },
+                {
+                    "title": "Awesome Program",
+                    "id": "dummy_program_id_48",
+                    "start": "2023-03-15T03:00:00+01:00",
+                    "end": "2023-03-15T03:30:00+01:00"
+                },
+                {
+                    "title": "Awesome Program",
+                    "id": "dummy_program_id_49",
+                    "start": "2023-03-15T03:30:00+01:00",
+                    "end": "2023-03-15T04:20:00+01:00"
+                },
+                {
+                    "title": "Game of Thrones",
+                    "id": "dummy_program_id_50",
+                    "start": "2023-03-15T04:20:00+01:00",
+                    "end": "2023-03-15T04:50:00+01:00"
+                },
+                {
+                    "title": "Cool Stuff",
+                    "id": "dummy_program_id_51",
+                    "start": "2023-03-15T04:50:00+01:00",
+                    "end": "2023-03-15T05:40:00+01:00"
+                },
+                {
+                    "title": "Awesome Program",
+                    "id": "dummy_program_id_52",
+                    "start": "2023-03-15T05:40:00+01:00",
+                    "end": "2023-03-15T06:20:00+01:00"
+                },
+                {
+                    "title": "Cool Stuff",
+                    "id": "dummy_program_id_53",
+                    "start": "2023-03-15T06:20:00+01:00",
+                    "end": "2023-03-15T07:10:00+01:00"
+                },
+                {
+                    "title": "Cool Stuff",
+                    "id": "dummy_program_id_54",
+                    "start": "2023-03-15T07:10:00+01:00",
+                    "end": "2023-03-15T07:50:00+01:00"
+                },
+                {
+                    "title": "Vikings",
+                    "id": "dummy_program_id_55",
+                    "start": "2023-03-15T07:50:00+01:00",
+                    "end": "2023-03-15T08:10:00+01:00"
+                },
+                {
+                    "title": "Vikings",
+                    "id": "dummy_program_id_56",
+                    "start": "2023-03-15T08:10:00+01:00",
+                    "end": "2023-03-15T08:50:00+01:00"
+                },
+                {
+                    "title": "Vikings",
+                    "id": "dummy_program_id_57",
+                    "start": "2023-03-15T08:50:00+01:00",
+                    "end": "2023-03-15T09:10:00+01:00"
+                },
+                {
+                    "title": "Game of Thrones",
+                    "id": "dummy_program_id_58",
+                    "start": "2023-03-15T09:10:00+01:00",
+                    "end": "2023-03-15T09:50:00+01:00"
+                },
+                {
+                    "title": "Awesome Program",
+                    "id": "dummy_program_id_59",
+                    "start": "2023-03-15T09:50:00+01:00",
+                    "end": "2023-03-15T10:20:00+01:00"
+                },
+                {
+                    "title": "Awesome Program",
+                    "id": "dummy_program_id_60",
+                    "start": "2023-03-15T10:20:00+01:00",
+                    "end": "2023-03-15T11:00:00+01:00"
+                },
+                {
+                    "title": "Game of Thrones",
+                    "id": "dummy_program_id_61",
+                    "start": "2023-03-15T11:00:00+01:00",
+                    "end": "2023-03-15T11:20:00+01:00"
+                },
+                {
+                    "title": "Supernatural",
+                    "id": "dummy_program_id_62",
+                    "start": "2023-03-15T11:20:00+01:00",
+                    "end": "2023-03-15T12:00:00+01:00"
+                },
+                {
+                    "title": "Vikings",
+                    "id": "dummy_program_id_63",
+                    "start": "2023-03-15T12:00:00+01:00",
+                    "end": "2023-03-15T12:50:00+01:00"
+                },
+                {
+                    "title": "Supernatural",
+                    "id": "dummy_program_id_64",
+                    "start": "2023-03-15T12:50:00+01:00",
+                    "end": "2023-03-15T13:20:00+01:00"
+                },
+                {
+                    "title": "Interesting Show",
+                    "id": "dummy_program_id_65",
+                    "start": "2023-03-15T13:20:00+01:00",
+                    "end": "2023-03-15T14:10:00+01:00"
+                },
+                {
+                    "title": "Awesome Program",
+                    "id": "dummy_program_id_66",
+                    "start": "2023-03-15T14:10:00+01:00",
+                    "end": "2023-03-15T15:00:00+01:00"
+                },
+                {
+                    "title": "Interesting Show",
+                    "id": "dummy_program_id_67",
+                    "start": "2023-03-15T15:00:00+01:00",
+                    "end": "2023-03-15T15:50:00+01:00"
+                },
+                {
+                    "title": "Vikings",
+                    "id": "dummy_program_id_68",
+                    "start": "2023-03-15T15:50:00+01:00",
+                    "end": "2023-03-15T16:10:00+01:00"
+                },
+                {
+                    "title": "Interesting Show",
+                    "id": "dummy_program_id_69",
+                    "start": "2023-03-15T16:10:00+01:00",
+                    "end": "2023-03-15T16:40:00+01:00"
+                },
+                {
+                    "title": "Interesting Show",
+                    "id": "dummy_program_id_70",
+                    "start": "2023-03-15T16:40:00+01:00",
+                    "end": "2023-03-15T17:00:00+01:00"
+                },
+                {
+                    "title": "Interesting Show",
+                    "id": "dummy_program_id_71",
+                    "start": "2023-03-15T17:00:00+01:00",
+                    "end": "2023-03-15T17:30:00+01:00"
+                },
+                {
+                    "title": "Awesome Program",
+                    "id": "dummy_program_id_72",
+                    "start": "2023-03-15T17:30:00+01:00",
+                    "end": "2023-03-15T18:10:00+01:00"
+                },
+                {
+                    "title": "Vikings",
+                    "id": "dummy_program_id_73",
+                    "start": "2023-03-15T18:10:00+01:00",
+                    "end": "2023-03-15T18:50:00+01:00"
+                },
+                {
+                    "title": "Cool Stuff",
+                    "id": "dummy_program_id_74",
+                    "start": "2023-03-15T18:50:00+01:00",
+                    "end": "2023-03-15T19:40:00+01:00"
+                },
+                {
+                    "title": "Game of Thrones",
+                    "id": "dummy_program_id_75",
+                    "start": "2023-03-15T19:40:00+01:00",
+                    "end": "2023-03-15T20:10:00+01:00"
+                },
+                {
+                    "title": "Supernatural",
+                    "id": "dummy_program_id_76",
+                    "start": "2023-03-15T20:10:00+01:00",
+                    "end": "2023-03-15T21:00:00+01:00"
+                },
+                {
+                    "title": "Game of Thrones",
+                    "id": "dummy_program_id_77",
+                    "start": "2023-03-15T21:00:00+01:00",
+                    "end": "2023-03-15T21:50:00+01:00"
+                },
+                {
+                    "title": "Game of Thrones",
+                    "id": "dummy_program_id_78",
+                    "start": "2023-03-15T21:50:00+01:00",
+                    "end": "2023-03-15T22:20:00+01:00"
+                },
+                {
+                    "title": "Game of Thrones",
+                    "id": "dummy_program_id_79",
+                    "start": "2023-03-15T22:20:00+01:00",
+                    "end": "2023-03-15T23:10:00+01:00"
+                },
+                {
+                    "title": "Vikings",
+                    "id": "dummy_program_id_80",
+                    "start": "2023-03-15T23:10:00+01:00",
+                    "end": "2023-03-15T23:40:00+01:00"
+                }
+            ]
+        },
+        {
+            "id": "hbo",
+            "title": "HBO",
+            "images": {
+                "logo": "http://www.mariogonzalezduarte.es/nm-epg-images/logo-channels/tm-channel.png"
+            },
+            "schedules": [
+                {
+                    "title": "Supernatural",
+                    "id": "dummy_program_id_81",
+                    "start": "2023-03-15T00:00:00+01:00",
+                    "end": "2023-03-15T00:50:00+01:00"
+                },
+                {
+                    "title": "Supernatural",
+                    "id": "dummy_program_id_82",
+                    "start": "2023-03-15T00:50:00+01:00",
+                    "end": "2023-03-15T01:30:00+01:00"
+                },
+                {
+                    "title": "Cool Stuff",
+                    "id": "dummy_program_id_83",
+                    "start": "2023-03-15T01:30:00+01:00",
+                    "end": "2023-03-15T02:10:00+01:00"
+                },
+                {
+                    "title": "Awesome Program",
+                    "id": "dummy_program_id_84",
+                    "start": "2023-03-15T02:10:00+01:00",
+                    "end": "2023-03-15T02:30:00+01:00"
+                },
+                {
+                    "title": "Game of Thrones",
+                    "id": "dummy_program_id_85",
+                    "start": "2023-03-15T02:30:00+01:00",
+                    "end": "2023-03-15T03:20:00+01:00"
+                },
+                {
+                    "title": "Awesome Program",
+                    "id": "dummy_program_id_86",
+                    "start": "2023-03-15T03:20:00+01:00",
+                    "end": "2023-03-15T04:00:00+01:00"
+                },
+                {
+                    "title": "Supernatural",
+                    "id": "dummy_program_id_87",
+                    "start": "2023-03-15T04:00:00+01:00",
+                    "end": "2023-03-15T04:20:00+01:00"
+                },
+                {
+                    "title": "Game of Thrones",
+                    "id": "dummy_program_id_88",
+                    "start": "2023-03-15T04:20:00+01:00",
+                    "end": "2023-03-15T04:50:00+01:00"
+                },
+                {
+                    "title": "Supernatural",
+                    "id": "dummy_program_id_89",
+                    "start": "2023-03-15T04:50:00+01:00",
+                    "end": "2023-03-15T05:30:00+01:00"
+                },
+                {
+                    "title": "Vikings",
+                    "id": "dummy_program_id_90",
+                    "start": "2023-03-15T05:30:00+01:00",
+                    "end": "2023-03-15T05:50:00+01:00"
+                },
+                {
+                    "title": "Cool Stuff",
+                    "id": "dummy_program_id_91",
+                    "start": "2023-03-15T05:50:00+01:00",
+                    "end": "2023-03-15T06:20:00+01:00"
+                },
+                {
+                    "title": "Vikings",
+                    "id": "dummy_program_id_92",
+                    "start": "2023-03-15T06:20:00+01:00",
+                    "end": "2023-03-15T07:00:00+01:00"
+                },
+                {
+                    "title": "Game of Thrones",
+                    "id": "dummy_program_id_93",
+                    "start": "2023-03-15T07:00:00+01:00",
+                    "end": "2023-03-15T07:20:00+01:00"
+                },
+                {
+                    "title": "Cool Stuff",
+                    "id": "dummy_program_id_94",
+                    "start": "2023-03-15T07:20:00+01:00",
+                    "end": "2023-03-15T08:10:00+01:00"
+                },
+                {
+                    "title": "Supernatural",
+                    "id": "dummy_program_id_95",
+                    "start": "2023-03-15T08:10:00+01:00",
+                    "end": "2023-03-15T09:00:00+01:00"
+                },
+                {
+                    "title": "Supernatural",
+                    "id": "dummy_program_id_96",
+                    "start": "2023-03-15T09:00:00+01:00",
+                    "end": "2023-03-15T09:50:00+01:00"
+                },
+                {
+                    "title": "Game of Thrones",
+                    "id": "dummy_program_id_97",
+                    "start": "2023-03-15T09:50:00+01:00",
+                    "end": "2023-03-15T10:20:00+01:00"
+                },
+                {
+                    "title": "Cool Stuff",
+                    "id": "dummy_program_id_98",
+                    "start": "2023-03-15T10:20:00+01:00",
+                    "end": "2023-03-15T10:50:00+01:00"
+                },
+                {
+                    "title": "Cool Stuff",
+                    "id": "dummy_program_id_99",
+                    "start": "2023-03-15T10:50:00+01:00",
+                    "end": "2023-03-15T11:10:00+01:00"
+                },
+                {
+                    "title": "Game of Thrones",
+                    "id": "dummy_program_id_100",
+                    "start": "2023-03-15T11:10:00+01:00",
+                    "end": "2023-03-15T11:50:00+01:00"
+                },
+                {
+                    "title": "Game of Thrones",
+                    "id": "dummy_program_id_101",
+                    "start": "2023-03-15T11:50:00+01:00",
+                    "end": "2023-03-15T12:10:00+01:00"
+                },
+                {
+                    "title": "Vikings",
+                    "id": "dummy_program_id_102",
+                    "start": "2023-03-15T12:10:00+01:00",
+                    "end": "2023-03-15T12:40:00+01:00"
+                },
+                {
+                    "title": "Supernatural",
+                    "id": "dummy_program_id_103",
+                    "start": "2023-03-15T12:40:00+01:00",
+                    "end": "2023-03-15T13:30:00+01:00"
+                },
+                {
+                    "title": "Cool Stuff",
+                    "id": "dummy_program_id_104",
+                    "start": "2023-03-15T13:30:00+01:00",
+                    "end": "2023-03-15T14:10:00+01:00"
+                },
+                {
+                    "title": "Vikings",
+                    "id": "dummy_program_id_105",
+                    "start": "2023-03-15T14:10:00+01:00",
+                    "end": "2023-03-15T14:30:00+01:00"
+                },
+                {
+                    "title": "Game of Thrones",
+                    "id": "dummy_program_id_106",
+                    "start": "2023-03-15T14:30:00+01:00",
+                    "end": "2023-03-15T15:10:00+01:00"
+                },
+                {
+                    "title": "Game of Thrones",
+                    "id": "dummy_program_id_107",
+                    "start": "2023-03-15T15:10:00+01:00",
+                    "end": "2023-03-15T15:40:00+01:00"
+                },
+                {
+                    "title": "Interesting Show",
+                    "id": "dummy_program_id_108",
+                    "start": "2023-03-15T15:40:00+01:00",
+                    "end": "2023-03-15T16:10:00+01:00"
+                },
+                {
+                    "title": "Cool Stuff",
+                    "id": "dummy_program_id_109",
+                    "start": "2023-03-15T16:10:00+01:00",
+                    "end": "2023-03-15T16:40:00+01:00"
+                },
+                {
+                    "title": "Game of Thrones",
+                    "id": "dummy_program_id_110",
+                    "start": "2023-03-15T16:40:00+01:00",
+                    "end": "2023-03-15T17:10:00+01:00"
+                },
+                {
+                    "title": "Interesting Show",
+                    "id": "dummy_program_id_111",
+                    "start": "2023-03-15T17:10:00+01:00",
+                    "end": "2023-03-15T17:50:00+01:00"
+                },
+                {
+                    "title": "Vikings",
+                    "id": "dummy_program_id_112",
+                    "start": "2023-03-15T17:50:00+01:00",
+                    "end": "2023-03-15T18:40:00+01:00"
+                },
+                {
+                    "title": "Cool Stuff",
+                    "id": "dummy_program_id_113",
+                    "start": "2023-03-15T18:40:00+01:00",
+                    "end": "2023-03-15T19:10:00+01:00"
+                },
+                {
+                    "title": "Vikings",
+                    "id": "dummy_program_id_114",
+                    "start": "2023-03-15T19:10:00+01:00",
+                    "end": "2023-03-15T19:40:00+01:00"
+                },
+                {
+                    "title": "Awesome Program",
+                    "id": "dummy_program_id_115",
+                    "start": "2023-03-15T19:40:00+01:00",
+                    "end": "2023-03-15T20:20:00+01:00"
+                },
+                {
+                    "title": "Awesome Program",
+                    "id": "dummy_program_id_116",
+                    "start": "2023-03-15T20:20:00+01:00",
+                    "end": "2023-03-15T20:40:00+01:00"
+                },
+                {
+                    "title": "Cool Stuff",
+                    "id": "dummy_program_id_117",
+                    "start": "2023-03-15T20:40:00+01:00",
+                    "end": "2023-03-15T21:30:00+01:00"
+                },
+                {
+                    "title": "Vikings",
+                    "id": "dummy_program_id_118",
+                    "start": "2023-03-15T21:30:00+01:00",
+                    "end": "2023-03-15T22:10:00+01:00"
+                },
+                {
+                    "title": "Vikings",
+                    "id": "dummy_program_id_119",
+                    "start": "2023-03-15T22:10:00+01:00",
+                    "end": "2023-03-15T22:50:00+01:00"
+                },
+                {
+                    "title": "Interesting Show",
+                    "id": "dummy_program_id_120",
+                    "start": "2023-03-15T22:50:00+01:00",
+                    "end": "2023-03-15T23:30:00+01:00"
+                }
+            ]
+        },
+        {
+            "id": "cw",
+            "title": "The CW",
+            "images": {
+                "logo": "http://www.mariogonzalezduarte.es/nm-epg-images/logo-channels/w-channel.png"
+            },
+            "schedules": [
+                {
+                    "title": "Awesome Program",
+                    "id": "dummy_program_id_121",
+                    "start": "2023-03-15T00:00:00+01:00",
+                    "end": "2023-03-15T00:50:00+01:00"
+                },
+                {
+                    "title": "Cool Stuff",
+                    "id": "dummy_program_id_122",
+                    "start": "2023-03-15T00:50:00+01:00",
+                    "end": "2023-03-15T01:30:00+01:00"
+                },
+                {
+                    "title": "Game of Thrones",
+                    "id": "dummy_program_id_123",
+                    "start": "2023-03-15T01:30:00+01:00",
+                    "end": "2023-03-15T02:10:00+01:00"
+                },
+                {
+                    "title": "Vikings",
+                    "id": "dummy_program_id_124",
+                    "start": "2023-03-15T02:10:00+01:00",
+                    "end": "2023-03-15T02:30:00+01:00"
+                },
+                {
+                    "title": "Supernatural",
+                    "id": "dummy_program_id_125",
+                    "start": "2023-03-15T02:30:00+01:00",
+                    "end": "2023-03-15T03:10:00+01:00"
+                },
+                {
+                    "title": "Vikings",
+                    "id": "dummy_program_id_126",
+                    "start": "2023-03-15T03:10:00+01:00",
+                    "end": "2023-03-15T03:40:00+01:00"
+                },
+                {
+                    "title": "Awesome Program",
+                    "id": "dummy_program_id_127",
+                    "start": "2023-03-15T03:40:00+01:00",
+                    "end": "2023-03-15T04:20:00+01:00"
+                },
+                {
+                    "title": "Vikings",
+                    "id": "dummy_program_id_128",
+                    "start": "2023-03-15T04:20:00+01:00",
+                    "end": "2023-03-15T05:10:00+01:00"
+                },
+                {
+                    "title": "Awesome Program",
+                    "id": "dummy_program_id_129",
+                    "start": "2023-03-15T05:10:00+01:00",
+                    "end": "2023-03-15T05:40:00+01:00"
+                },
+                {
+                    "title": "Cool Stuff",
+                    "id": "dummy_program_id_130",
+                    "start": "2023-03-15T05:40:00+01:00",
+                    "end": "2023-03-15T06:10:00+01:00"
+                },
+                {
+                    "title": "Supernatural",
+                    "id": "dummy_program_id_131",
+                    "start": "2023-03-15T06:10:00+01:00",
+                    "end": "2023-03-15T06:40:00+01:00"
+                },
+                {
+                    "title": "Vikings",
+                    "id": "dummy_program_id_132",
+                    "start": "2023-03-15T06:40:00+01:00",
+                    "end": "2023-03-15T07:30:00+01:00"
+                },
+                {
+                    "title": "Vikings",
+                    "id": "dummy_program_id_133",
+                    "start": "2023-03-15T07:30:00+01:00",
+                    "end": "2023-03-15T08:10:00+01:00"
+                },
+                {
+                    "title": "Supernatural",
+                    "id": "dummy_program_id_134",
+                    "start": "2023-03-15T08:10:00+01:00",
+                    "end": "2023-03-15T08:40:00+01:00"
+                },
+                {
+                    "title": "Awesome Program",
+                    "id": "dummy_program_id_135",
+                    "start": "2023-03-15T08:40:00+01:00",
+                    "end": "2023-03-15T09:30:00+01:00"
+                },
+                {
+                    "title": "Vikings",
+                    "id": "dummy_program_id_136",
+                    "start": "2023-03-15T09:30:00+01:00",
+                    "end": "2023-03-15T10:00:00+01:00"
+                },
+                {
+                    "title": "Interesting Show",
+                    "id": "dummy_program_id_137",
+                    "start": "2023-03-15T10:00:00+01:00",
+                    "end": "2023-03-15T10:30:00+01:00"
+                },
+                {
+                    "title": "Game of Thrones",
+                    "id": "dummy_program_id_138",
+                    "start": "2023-03-15T10:30:00+01:00",
+                    "end": "2023-03-15T11:00:00+01:00"
+                },
+                {
+                    "title": "Vikings",
+                    "id": "dummy_program_id_139",
+                    "start": "2023-03-15T11:00:00+01:00",
+                    "end": "2023-03-15T11:40:00+01:00"
+                },
+                {
+                    "title": "Awesome Program",
+                    "id": "dummy_program_id_140",
+                    "start": "2023-03-15T11:40:00+01:00",
+                    "end": "2023-03-15T12:10:00+01:00"
+                },
+                {
+                    "title": "Awesome Program",
+                    "id": "dummy_program_id_141",
+                    "start": "2023-03-15T12:10:00+01:00",
+                    "end": "2023-03-15T12:50:00+01:00"
+                },
+                {
+                    "title": "Cool Stuff",
+                    "id": "dummy_program_id_142",
+                    "start": "2023-03-15T12:50:00+01:00",
+                    "end": "2023-03-15T13:20:00+01:00"
+                },
+                {
+                    "title": "Supernatural",
+                    "id": "dummy_program_id_143",
+                    "start": "2023-03-15T13:20:00+01:00",
+                    "end": "2023-03-15T13:50:00+01:00"
+                },
+                {
+                    "title": "Game of Thrones",
+                    "id": "dummy_program_id_144",
+                    "start": "2023-03-15T13:50:00+01:00",
+                    "end": "2023-03-15T14:30:00+01:00"
+                },
+                {
+                    "title": "Supernatural",
+                    "id": "dummy_program_id_145",
+                    "start": "2023-03-15T14:30:00+01:00",
+                    "end": "2023-03-15T14:50:00+01:00"
+                },
+                {
+                    "title": "Cool Stuff",
+                    "id": "dummy_program_id_146",
+                    "start": "2023-03-15T14:50:00+01:00",
+                    "end": "2023-03-15T15:20:00+01:00"
+                },
+                {
+                    "title": "Game of Thrones",
+                    "id": "dummy_program_id_147",
+                    "start": "2023-03-15T15:20:00+01:00",
+                    "end": "2023-03-15T16:10:00+01:00"
+                },
+                {
+                    "title": "Game of Thrones",
+                    "id": "dummy_program_id_148",
+                    "start": "2023-03-15T16:10:00+01:00",
+                    "end": "2023-03-15T16:50:00+01:00"
+                },
+                {
+                    "title": "Awesome Program",
+                    "id": "dummy_program_id_149",
+                    "start": "2023-03-15T16:50:00+01:00",
+                    "end": "2023-03-15T17:40:00+01:00"
+                },
+                {
+                    "title": "Game of Thrones",
+                    "id": "dummy_program_id_150",
+                    "start": "2023-03-15T17:40:00+01:00",
+                    "end": "2023-03-15T18:10:00+01:00"
+                },
+                {
+                    "title": "Awesome Program",
+                    "id": "dummy_program_id_151",
+                    "start": "2023-03-15T18:10:00+01:00",
+                    "end": "2023-03-15T18:50:00+01:00"
+                },
+                {
+                    "title": "Awesome Program",
+                    "id": "dummy_program_id_152",
+                    "start": "2023-03-15T18:50:00+01:00",
+                    "end": "2023-03-15T19:30:00+01:00"
+                },
+                {
+                    "title": "Game of Thrones",
+                    "id": "dummy_program_id_153",
+                    "start": "2023-03-15T19:30:00+01:00",
+                    "end": "2023-03-15T19:50:00+01:00"
+                },
+                {
+                    "title": "Awesome Program",
+                    "id": "dummy_program_id_154",
+                    "start": "2023-03-15T19:50:00+01:00",
+                    "end": "2023-03-15T20:10:00+01:00"
+                },
+                {
+                    "title": "Vikings",
+                    "id": "dummy_program_id_155",
+                    "start": "2023-03-15T20:10:00+01:00",
+                    "end": "2023-03-15T20:40:00+01:00"
+                },
+                {
+                    "title": "Interesting Show",
+                    "id": "dummy_program_id_156",
+                    "start": "2023-03-15T20:40:00+01:00",
+                    "end": "2023-03-15T21:00:00+01:00"
+                },
+                {
+                    "title": "Awesome Program",
+                    "id": "dummy_program_id_157",
+                    "start": "2023-03-15T21:00:00+01:00",
+                    "end": "2023-03-15T21:40:00+01:00"
+                },
+                {
+                    "title": "Awesome Program",
+                    "id": "dummy_program_id_158",
+                    "start": "2023-03-15T21:40:00+01:00",
+                    "end": "2023-03-15T22:20:00+01:00"
+                },
+                {
+                    "title": "Cool Stuff",
+                    "id": "dummy_program_id_159",
+                    "start": "2023-03-15T22:20:00+01:00",
+                    "end": "2023-03-15T23:00:00+01:00"
+                },
+                {
+                    "title": "Interesting Show",
+                    "id": "dummy_program_id_160",
+                    "start": "2023-03-15T23:00:00+01:00",
+                    "end": "2023-03-15T23:50:00+01:00"
+                }
+            ]
+        },
+        {
+            "id": "vox",
+            "title": "Vox",
+            "images": {
+                "logo": "http://www.mariogonzalezduarte.es/nm-epg-images/logo-channels/nfi-channel.png"
+            },
+            "schedules": [
+                {
+                    "title": "Interesting Show",
+                    "id": "dummy_program_id_161",
+                    "start": "2023-03-15T00:00:00+01:00",
+                    "end": "2023-03-15T00:30:00+01:00"
+                },
+                {
+                    "title": "Awesome Program",
+                    "id": "dummy_program_id_162",
+                    "start": "2023-03-15T00:30:00+01:00",
+                    "end": "2023-03-15T01:10:00+01:00"
+                },
+                {
+                    "title": "Cool Stuff",
+                    "id": "dummy_program_id_163",
+                    "start": "2023-03-15T01:10:00+01:00",
+                    "end": "2023-03-15T01:30:00+01:00"
+                },
+                {
+                    "title": "Game of Thrones",
+                    "id": "dummy_program_id_164",
+                    "start": "2023-03-15T01:30:00+01:00",
+                    "end": "2023-03-15T02:00:00+01:00"
+                },
+                {
+                    "title": "Game of Thrones",
+                    "id": "dummy_program_id_165",
+                    "start": "2023-03-15T02:00:00+01:00",
+                    "end": "2023-03-15T02:50:00+01:00"
+                },
+                {
+                    "title": "Cool Stuff",
+                    "id": "dummy_program_id_166",
+                    "start": "2023-03-15T02:50:00+01:00",
+                    "end": "2023-03-15T03:20:00+01:00"
+                },
+                {
+                    "title": "Vikings",
+                    "id": "dummy_program_id_167",
+                    "start": "2023-03-15T03:20:00+01:00",
+                    "end": "2023-03-15T03:40:00+01:00"
+                },
+                {
+                    "title": "Cool Stuff",
+                    "id": "dummy_program_id_168",
+                    "start": "2023-03-15T03:40:00+01:00",
+                    "end": "2023-03-15T04:00:00+01:00"
+                },
+                {
+                    "title": "Interesting Show",
+                    "id": "dummy_program_id_169",
+                    "start": "2023-03-15T04:00:00+01:00",
+                    "end": "2023-03-15T04:20:00+01:00"
+                },
+                {
+                    "title": "Vikings",
+                    "id": "dummy_program_id_170",
+                    "start": "2023-03-15T04:20:00+01:00",
+                    "end": "2023-03-15T05:10:00+01:00"
+                },
+                {
+                    "title": "Cool Stuff",
+                    "id": "dummy_program_id_171",
+                    "start": "2023-03-15T05:10:00+01:00",
+                    "end": "2023-03-15T05:50:00+01:00"
+                },
+                {
+                    "title": "Cool Stuff",
+                    "id": "dummy_program_id_172",
+                    "start": "2023-03-15T05:50:00+01:00",
+                    "end": "2023-03-15T06:20:00+01:00"
+                },
+                {
+                    "title": "Awesome Program",
+                    "id": "dummy_program_id_173",
+                    "start": "2023-03-15T06:20:00+01:00",
+                    "end": "2023-03-15T07:10:00+01:00"
+                },
+                {
+                    "title": "Awesome Program",
+                    "id": "dummy_program_id_174",
+                    "start": "2023-03-15T07:10:00+01:00",
+                    "end": "2023-03-15T07:50:00+01:00"
+                },
+                {
+                    "title": "Vikings",
+                    "id": "dummy_program_id_175",
+                    "start": "2023-03-15T07:50:00+01:00",
+                    "end": "2023-03-15T08:40:00+01:00"
+                },
+                {
+                    "title": "Awesome Program",
+                    "id": "dummy_program_id_176",
+                    "start": "2023-03-15T08:40:00+01:00",
+                    "end": "2023-03-15T09:10:00+01:00"
+                },
+                {
+                    "title": "Cool Stuff",
+                    "id": "dummy_program_id_177",
+                    "start": "2023-03-15T09:10:00+01:00",
+                    "end": "2023-03-15T09:40:00+01:00"
+                },
+                {
+                    "title": "Vikings",
+                    "id": "dummy_program_id_178",
+                    "start": "2023-03-15T09:40:00+01:00",
+                    "end": "2023-03-15T10:20:00+01:00"
+                },
+                {
+                    "title": "Cool Stuff",
+                    "id": "dummy_program_id_179",
+                    "start": "2023-03-15T10:20:00+01:00",
+                    "end": "2023-03-15T11:00:00+01:00"
+                },
+                {
+                    "title": "Interesting Show",
+                    "id": "dummy_program_id_180",
+                    "start": "2023-03-15T11:00:00+01:00",
+                    "end": "2023-03-15T11:40:00+01:00"
+                },
+                {
+                    "title": "Awesome Program",
+                    "id": "dummy_program_id_181",
+                    "start": "2023-03-15T11:40:00+01:00",
+                    "end": "2023-03-15T12:30:00+01:00"
+                },
+                {
+                    "title": "Game of Thrones",
+                    "id": "dummy_program_id_182",
+                    "start": "2023-03-15T12:30:00+01:00",
+                    "end": "2023-03-15T13:20:00+01:00"
+                },
+                {
+                    "title": "Cool Stuff",
+                    "id": "dummy_program_id_183",
+                    "start": "2023-03-15T13:20:00+01:00",
+                    "end": "2023-03-15T14:10:00+01:00"
+                },
+                {
+                    "title": "Awesome Program",
+                    "id": "dummy_program_id_184",
+                    "start": "2023-03-15T14:10:00+01:00",
+                    "end": "2023-03-15T14:50:00+01:00"
+                },
+                {
+                    "title": "Cool Stuff",
+                    "id": "dummy_program_id_185",
+                    "start": "2023-03-15T14:50:00+01:00",
+                    "end": "2023-03-15T15:40:00+01:00"
+                },
+                {
+                    "title": "Vikings",
+                    "id": "dummy_program_id_186",
+                    "start": "2023-03-15T15:40:00+01:00",
+                    "end": "2023-03-15T16:10:00+01:00"
+                },
+                {
+                    "title": "Awesome Program",
+                    "id": "dummy_program_id_187",
+                    "start": "2023-03-15T16:10:00+01:00",
+                    "end": "2023-03-15T16:40:00+01:00"
+                },
+                {
+                    "title": "Supernatural",
+                    "id": "dummy_program_id_188",
+                    "start": "2023-03-15T16:40:00+01:00",
+                    "end": "2023-03-15T17:20:00+01:00"
+                },
+                {
+                    "title": "Game of Thrones",
+                    "id": "dummy_program_id_189",
+                    "start": "2023-03-15T17:20:00+01:00",
+                    "end": "2023-03-15T18:00:00+01:00"
+                },
+                {
+                    "title": "Cool Stuff",
+                    "id": "dummy_program_id_190",
+                    "start": "2023-03-15T18:00:00+01:00",
+                    "end": "2023-03-15T18:50:00+01:00"
+                },
+                {
+                    "title": "Cool Stuff",
+                    "id": "dummy_program_id_191",
+                    "start": "2023-03-15T18:50:00+01:00",
+                    "end": "2023-03-15T19:30:00+01:00"
+                },
+                {
+                    "title": "Cool Stuff",
+                    "id": "dummy_program_id_192",
+                    "start": "2023-03-15T19:30:00+01:00",
+                    "end": "2023-03-15T19:50:00+01:00"
+                },
+                {
+                    "title": "Supernatural",
+                    "id": "dummy_program_id_193",
+                    "start": "2023-03-15T19:50:00+01:00",
+                    "end": "2023-03-15T20:10:00+01:00"
+                },
+                {
+                    "title": "Cool Stuff",
+                    "id": "dummy_program_id_194",
+                    "start": "2023-03-15T20:10:00+01:00",
+                    "end": "2023-03-15T20:40:00+01:00"
+                },
+                {
+                    "title": "Cool Stuff",
+                    "id": "dummy_program_id_195",
+                    "start": "2023-03-15T20:40:00+01:00",
+                    "end": "2023-03-15T21:00:00+01:00"
+                },
+                {
+                    "title": "Supernatural",
+                    "id": "dummy_program_id_196",
+                    "start": "2023-03-15T21:00:00+01:00",
+                    "end": "2023-03-15T21:20:00+01:00"
+                },
+                {
+                    "title": "Cool Stuff",
+                    "id": "dummy_program_id_197",
+                    "start": "2023-03-15T21:20:00+01:00",
+                    "end": "2023-03-15T21:50:00+01:00"
+                },
+                {
+                    "title": "Interesting Show",
+                    "id": "dummy_program_id_198",
+                    "start": "2023-03-15T21:50:00+01:00",
+                    "end": "2023-03-15T22:40:00+01:00"
+                },
+                {
+                    "title": "Supernatural",
+                    "id": "dummy_program_id_199",
+                    "start": "2023-03-15T22:40:00+01:00",
+                    "end": "2023-03-15T23:20:00+01:00"
+                }
+            ]
+        },
+        {
+            "id": "history",
+            "title": "History",
+            "images": {
+                "logo": "http://www.mariogonzalezduarte.es/nm-epg-images/logo-channels/r-channel.png"
+            },
+            "schedules": [
+                {
+                    "title": "Interesting Show",
+                    "id": "dummy_program_id_200",
+                    "start": "2023-03-15T00:00:00+01:00",
+                    "end": "2023-03-15T00:20:00+01:00"
+                },
+                {
+                    "title": "Awesome Program",
+                    "id": "dummy_program_id_201",
+                    "start": "2023-03-15T00:20:00+01:00",
+                    "end": "2023-03-15T00:40:00+01:00"
+                },
+                {
+                    "title": "Awesome Program",
+                    "id": "dummy_program_id_202",
+                    "start": "2023-03-15T00:40:00+01:00",
+                    "end": "2023-03-15T01:00:00+01:00"
+                },
+                {
+                    "title": "Game of Thrones",
+                    "id": "dummy_program_id_203",
+                    "start": "2023-03-15T01:00:00+01:00",
+                    "end": "2023-03-15T01:40:00+01:00"
+                },
+                {
+                    "title": "Awesome Program",
+                    "id": "dummy_program_id_204",
+                    "start": "2023-03-15T01:40:00+01:00",
+                    "end": "2023-03-15T02:30:00+01:00"
+                },
+                {
+                    "title": "Vikings",
+                    "id": "dummy_program_id_205",
+                    "start": "2023-03-15T02:30:00+01:00",
+                    "end": "2023-03-15T02:50:00+01:00"
+                },
+                {
+                    "title": "Supernatural",
+                    "id": "dummy_program_id_206",
+                    "start": "2023-03-15T02:50:00+01:00",
+                    "end": "2023-03-15T03:10:00+01:00"
+                },
+                {
+                    "title": "Interesting Show",
+                    "id": "dummy_program_id_207",
+                    "start": "2023-03-15T03:10:00+01:00",
+                    "end": "2023-03-15T03:50:00+01:00"
+                },
+                {
+                    "title": "Cool Stuff",
+                    "id": "dummy_program_id_208",
+                    "start": "2023-03-15T03:50:00+01:00",
+                    "end": "2023-03-15T04:10:00+01:00"
+                },
+                {
+                    "title": "Game of Thrones",
+                    "id": "dummy_program_id_209",
+                    "start": "2023-03-15T04:10:00+01:00",
+                    "end": "2023-03-15T04:50:00+01:00"
+                },
+                {
+                    "title": "Interesting Show",
+                    "id": "dummy_program_id_210",
+                    "start": "2023-03-15T04:50:00+01:00",
+                    "end": "2023-03-15T05:30:00+01:00"
+                },
+                {
+                    "title": "Vikings",
+                    "id": "dummy_program_id_211",
+                    "start": "2023-03-15T05:30:00+01:00",
+                    "end": "2023-03-15T06:10:00+01:00"
+                },
+                {
+                    "title": "Vikings",
+                    "id": "dummy_program_id_212",
+                    "start": "2023-03-15T06:10:00+01:00",
+                    "end": "2023-03-15T06:40:00+01:00"
+                },
+                {
+                    "title": "Game of Thrones",
+                    "id": "dummy_program_id_213",
+                    "start": "2023-03-15T06:40:00+01:00",
+                    "end": "2023-03-15T07:20:00+01:00"
+                },
+                {
+                    "title": "Supernatural",
+                    "id": "dummy_program_id_214",
+                    "start": "2023-03-15T07:20:00+01:00",
+                    "end": "2023-03-15T07:40:00+01:00"
+                },
+                {
+                    "title": "Supernatural",
+                    "id": "dummy_program_id_215",
+                    "start": "2023-03-15T07:40:00+01:00",
+                    "end": "2023-03-15T08:30:00+01:00"
+                },
+                {
+                    "title": "Awesome Program",
+                    "id": "dummy_program_id_216",
+                    "start": "2023-03-15T08:30:00+01:00",
+                    "end": "2023-03-15T09:20:00+01:00"
+                },
+                {
+                    "title": "Cool Stuff",
+                    "id": "dummy_program_id_217",
+                    "start": "2023-03-15T09:20:00+01:00",
+                    "end": "2023-03-15T09:40:00+01:00"
+                },
+                {
+                    "title": "Interesting Show",
+                    "id": "dummy_program_id_218",
+                    "start": "2023-03-15T09:40:00+01:00",
+                    "end": "2023-03-15T10:00:00+01:00"
+                },
+                {
+                    "title": "Awesome Program",
+                    "id": "dummy_program_id_219",
+                    "start": "2023-03-15T10:00:00+01:00",
+                    "end": "2023-03-15T10:30:00+01:00"
+                },
+                {
+                    "title": "Awesome Program",
+                    "id": "dummy_program_id_220",
+                    "start": "2023-03-15T10:30:00+01:00",
+                    "end": "2023-03-15T11:20:00+01:00"
+                },
+                {
+                    "title": "Game of Thrones",
+                    "id": "dummy_program_id_221",
+                    "start": "2023-03-15T11:20:00+01:00",
+                    "end": "2023-03-15T11:50:00+01:00"
+                },
+                {
+                    "title": "Supernatural",
+                    "id": "dummy_program_id_222",
+                    "start": "2023-03-15T11:50:00+01:00",
+                    "end": "2023-03-15T12:20:00+01:00"
+                },
+                {
+                    "title": "Interesting Show",
+                    "id": "dummy_program_id_223",
+                    "start": "2023-03-15T12:20:00+01:00",
+                    "end": "2023-03-15T13:00:00+01:00"
+                },
+                {
+                    "title": "Interesting Show",
+                    "id": "dummy_program_id_224",
+                    "start": "2023-03-15T13:00:00+01:00",
+                    "end": "2023-03-15T13:40:00+01:00"
+                },
+                {
+                    "title": "Interesting Show",
+                    "id": "dummy_program_id_225",
+                    "start": "2023-03-15T13:40:00+01:00",
+                    "end": "2023-03-15T14:10:00+01:00"
+                },
+                {
+                    "title": "Supernatural",
+                    "id": "dummy_program_id_226",
+                    "start": "2023-03-15T14:10:00+01:00",
+                    "end": "2023-03-15T14:50:00+01:00"
+                },
+                {
+                    "title": "Vikings",
+                    "id": "dummy_program_id_227",
+                    "start": "2023-03-15T14:50:00+01:00",
+                    "end": "2023-03-15T15:40:00+01:00"
+                },
+                {
+                    "title": "Game of Thrones",
+                    "id": "dummy_program_id_228",
+                    "start": "2023-03-15T15:40:00+01:00",
+                    "end": "2023-03-15T16:20:00+01:00"
+                },
+                {
+                    "title": "Cool Stuff",
+                    "id": "dummy_program_id_229",
+                    "start": "2023-03-15T16:20:00+01:00",
+                    "end": "2023-03-15T17:00:00+01:00"
+                },
+                {
+                    "title": "Awesome Program",
+                    "id": "dummy_program_id_230",
+                    "start": "2023-03-15T17:00:00+01:00",
+                    "end": "2023-03-15T17:20:00+01:00"
+                },
+                {
+                    "title": "Supernatural",
+                    "id": "dummy_program_id_231",
+                    "start": "2023-03-15T17:20:00+01:00",
+                    "end": "2023-03-15T18:10:00+01:00"
+                },
+                {
+                    "title": "Game of Thrones",
+                    "id": "dummy_program_id_232",
+                    "start": "2023-03-15T18:10:00+01:00",
+                    "end": "2023-03-15T19:00:00+01:00"
+                },
+                {
+                    "title": "Interesting Show",
+                    "id": "dummy_program_id_233",
+                    "start": "2023-03-15T19:00:00+01:00",
+                    "end": "2023-03-15T19:30:00+01:00"
+                },
+                {
+                    "title": "Interesting Show",
+                    "id": "dummy_program_id_234",
+                    "start": "2023-03-15T19:30:00+01:00",
+                    "end": "2023-03-15T19:50:00+01:00"
+                },
+                {
+                    "title": "Cool Stuff",
+                    "id": "dummy_program_id_235",
+                    "start": "2023-03-15T19:50:00+01:00",
+                    "end": "2023-03-15T20:30:00+01:00"
+                },
+                {
+                    "title": "Supernatural",
+                    "id": "dummy_program_id_236",
+                    "start": "2023-03-15T20:30:00+01:00",
+                    "end": "2023-03-15T21:10:00+01:00"
+                },
+                {
+                    "title": "Game of Thrones",
+                    "id": "dummy_program_id_237",
+                    "start": "2023-03-15T21:10:00+01:00",
+                    "end": "2023-03-15T22:00:00+01:00"
+                },
+                {
+                    "title": "Supernatural",
+                    "id": "dummy_program_id_238",
+                    "start": "2023-03-15T22:00:00+01:00",
+                    "end": "2023-03-15T22:20:00+01:00"
+                },
+                {
+                    "title": "Awesome Program",
+                    "id": "dummy_program_id_239",
+                    "start": "2023-03-15T22:20:00+01:00",
+                    "end": "2023-03-15T23:10:00+01:00"
+                }
+            ]
+        },
+        {
+            "id": "sixx",
+            "title": "Sixx",
+            "images": {
+                "logo": "http://www.mariogonzalezduarte.es/nm-epg-images/logo-channels/six-channel.png"
+            },
+            "schedules": [
+                {
+                    "title": "Game of Thrones",
+                    "id": "dummy_program_id_240",
+                    "start": "2023-03-15T00:00:00+01:00",
+                    "end": "2023-03-15T00:50:00+01:00"
+                },
+                {
+                    "title": "Interesting Show",
+                    "id": "dummy_program_id_241",
+                    "start": "2023-03-15T00:50:00+01:00",
+                    "end": "2023-03-15T01:10:00+01:00"
+                },
+                {
+                    "title": "Interesting Show",
+                    "id": "dummy_program_id_242",
+                    "start": "2023-03-15T01:10:00+01:00",
+                    "end": "2023-03-15T01:40:00+01:00"
+                },
+                {
+                    "title": "Supernatural",
+                    "id": "dummy_program_id_243",
+                    "start": "2023-03-15T01:40:00+01:00",
+                    "end": "2023-03-15T02:20:00+01:00"
+                },
+                {
+                    "title": "Interesting Show",
+                    "id": "dummy_program_id_244",
+                    "start": "2023-03-15T02:20:00+01:00",
+                    "end": "2023-03-15T03:10:00+01:00"
+                },
+                {
+                    "title": "Game of Thrones",
+                    "id": "dummy_program_id_245",
+                    "start": "2023-03-15T03:10:00+01:00",
+                    "end": "2023-03-15T04:00:00+01:00"
+                },
+                {
+                    "title": "Supernatural",
+                    "id": "dummy_program_id_246",
+                    "start": "2023-03-15T04:00:00+01:00",
+                    "end": "2023-03-15T04:20:00+01:00"
+                },
+                {
+                    "title": "Cool Stuff",
+                    "id": "dummy_program_id_247",
+                    "start": "2023-03-15T04:20:00+01:00",
+                    "end": "2023-03-15T04:50:00+01:00"
+                },
+                {
+                    "title": "Supernatural",
+                    "id": "dummy_program_id_248",
+                    "start": "2023-03-15T04:50:00+01:00",
+                    "end": "2023-03-15T05:40:00+01:00"
+                },
+                {
+                    "title": "Supernatural",
+                    "id": "dummy_program_id_249",
+                    "start": "2023-03-15T05:40:00+01:00",
+                    "end": "2023-03-15T06:20:00+01:00"
+                },
+                {
+                    "title": "Awesome Program",
+                    "id": "dummy_program_id_250",
+                    "start": "2023-03-15T06:20:00+01:00",
+                    "end": "2023-03-15T06:40:00+01:00"
+                },
+                {
+                    "title": "Interesting Show",
+                    "id": "dummy_program_id_251",
+                    "start": "2023-03-15T06:40:00+01:00",
+                    "end": "2023-03-15T07:10:00+01:00"
+                },
+                {
+                    "title": "Vikings",
+                    "id": "dummy_program_id_252",
+                    "start": "2023-03-15T07:10:00+01:00",
+                    "end": "2023-03-15T07:30:00+01:00"
+                },
+                {
+                    "title": "Awesome Program",
+                    "id": "dummy_program_id_253",
+                    "start": "2023-03-15T07:30:00+01:00",
+                    "end": "2023-03-15T07:50:00+01:00"
+                },
+                {
+                    "title": "Cool Stuff",
+                    "id": "dummy_program_id_254",
+                    "start": "2023-03-15T07:50:00+01:00",
+                    "end": "2023-03-15T08:20:00+01:00"
+                },
+                {
+                    "title": "Awesome Program",
+                    "id": "dummy_program_id_255",
+                    "start": "2023-03-15T08:20:00+01:00",
+                    "end": "2023-03-15T08:40:00+01:00"
+                },
+                {
+                    "title": "Supernatural",
+                    "id": "dummy_program_id_256",
+                    "start": "2023-03-15T08:40:00+01:00",
+                    "end": "2023-03-15T09:30:00+01:00"
+                },
+                {
+                    "title": "Vikings",
+                    "id": "dummy_program_id_257",
+                    "start": "2023-03-15T09:30:00+01:00",
+                    "end": "2023-03-15T09:50:00+01:00"
+                },
+                {
+                    "title": "Awesome Program",
+                    "id": "dummy_program_id_258",
+                    "start": "2023-03-15T09:50:00+01:00",
+                    "end": "2023-03-15T10:30:00+01:00"
+                },
+                {
+                    "title": "Supernatural",
+                    "id": "dummy_program_id_259",
+                    "start": "2023-03-15T10:30:00+01:00",
+                    "end": "2023-03-15T11:10:00+01:00"
+                },
+                {
+                    "title": "Cool Stuff",
+                    "id": "dummy_program_id_260",
+                    "start": "2023-03-15T11:10:00+01:00",
+                    "end": "2023-03-15T11:30:00+01:00"
+                },
+                {
+                    "title": "Game of Thrones",
+                    "id": "dummy_program_id_261",
+                    "start": "2023-03-15T11:30:00+01:00",
+                    "end": "2023-03-15T12:20:00+01:00"
+                },
+                {
+                    "title": "Awesome Program",
+                    "id": "dummy_program_id_262",
+                    "start": "2023-03-15T12:20:00+01:00",
+                    "end": "2023-03-15T13:10:00+01:00"
+                },
+                {
+                    "title": "Supernatural",
+                    "id": "dummy_program_id_263",
+                    "start": "2023-03-15T13:10:00+01:00",
+                    "end": "2023-03-15T14:00:00+01:00"
+                },
+                {
+                    "title": "Vikings",
+                    "id": "dummy_program_id_264",
+                    "start": "2023-03-15T14:00:00+01:00",
+                    "end": "2023-03-15T14:40:00+01:00"
+                },
+                {
+                    "title": "Cool Stuff",
+                    "id": "dummy_program_id_265",
+                    "start": "2023-03-15T14:40:00+01:00",
+                    "end": "2023-03-15T15:20:00+01:00"
+                },
+                {
+                    "title": "Awesome Program",
+                    "id": "dummy_program_id_266",
+                    "start": "2023-03-15T15:20:00+01:00",
+                    "end": "2023-03-15T16:10:00+01:00"
+                },
+                {
+                    "title": "Game of Thrones",
+                    "id": "dummy_program_id_267",
+                    "start": "2023-03-15T16:10:00+01:00",
+                    "end": "2023-03-15T17:00:00+01:00"
+                },
+                {
+                    "title": "Awesome Program",
+                    "id": "dummy_program_id_268",
+                    "start": "2023-03-15T17:00:00+01:00",
+                    "end": "2023-03-15T17:50:00+01:00"
+                },
+                {
+                    "title": "Cool Stuff",
+                    "id": "dummy_program_id_269",
+                    "start": "2023-03-15T17:50:00+01:00",
+                    "end": "2023-03-15T18:10:00+01:00"
+                },
+                {
+                    "title": "Cool Stuff",
+                    "id": "dummy_program_id_270",
+                    "start": "2023-03-15T18:10:00+01:00",
+                    "end": "2023-03-15T18:30:00+01:00"
+                },
+                {
+                    "title": "Cool Stuff",
+                    "id": "dummy_program_id_271",
+                    "start": "2023-03-15T18:30:00+01:00",
+                    "end": "2023-03-15T18:50:00+01:00"
+                },
+                {
+                    "title": "Awesome Program",
+                    "id": "dummy_program_id_272",
+                    "start": "2023-03-15T18:50:00+01:00",
+                    "end": "2023-03-15T19:20:00+01:00"
+                },
+                {
+                    "title": "Supernatural",
+                    "id": "dummy_program_id_273",
+                    "start": "2023-03-15T19:20:00+01:00",
+                    "end": "2023-03-15T20:10:00+01:00"
+                },
+                {
+                    "title": "Supernatural",
+                    "id": "dummy_program_id_274",
+                    "start": "2023-03-15T20:10:00+01:00",
+                    "end": "2023-03-15T20:30:00+01:00"
+                },
+                {
+                    "title": "Interesting Show",
+                    "id": "dummy_program_id_275",
+                    "start": "2023-03-15T20:30:00+01:00",
+                    "end": "2023-03-15T21:20:00+01:00"
+                },
+                {
+                    "title": "Supernatural",
+                    "id": "dummy_program_id_276",
+                    "start": "2023-03-15T21:20:00+01:00",
+                    "end": "2023-03-15T21:40:00+01:00"
+                },
+                {
+                    "title": "Interesting Show",
+                    "id": "dummy_program_id_277",
+                    "start": "2023-03-15T21:40:00+01:00",
+                    "end": "2023-03-15T22:20:00+01:00"
+                },
+                {
+                    "title": "Game of Thrones",
+                    "id": "dummy_program_id_278",
+                    "start": "2023-03-15T22:20:00+01:00",
+                    "end": "2023-03-15T23:00:00+01:00"
+                },
+                {
+                    "title": "Vikings",
+                    "id": "dummy_program_id_279",
+                    "start": "2023-03-15T23:00:00+01:00",
+                    "end": "2023-03-15T23:30:00+01:00"
+                },
+                {
+                    "title": "Supernatural",
+                    "id": "dummy_program_id_280",
+                    "start": "2023-03-15T23:30:00+01:00",
+                    "end": "2023-03-15T23:50:00+01:00"
+                }
+            ]
+        },
+        {
+            "id": "tv2norway",
+            "title": "TV 2 Norway",
+            "images": {
+                "logo": "http://www.mariogonzalezduarte.es/nm-epg-images/logo-channels/b-channel.png"
+            },
+            "schedules": [
+                {
+                    "title": "Awesome Program",
+                    "id": "dummy_program_id_281",
+                    "start": "2023-03-15T00:00:00+01:00",
+                    "end": "2023-03-15T00:30:00+01:00"
+                },
+                {
+                    "title": "Cool Stuff",
+                    "id": "dummy_program_id_282",
+                    "start": "2023-03-15T00:30:00+01:00",
+                    "end": "2023-03-15T01:10:00+01:00"
+                },
+                {
+                    "title": "Interesting Show",
+                    "id": "dummy_program_id_283",
+                    "start": "2023-03-15T01:10:00+01:00",
+                    "end": "2023-03-15T01:30:00+01:00"
+                },
+                {
+                    "title": "Cool Stuff",
+                    "id": "dummy_program_id_284",
+                    "start": "2023-03-15T01:30:00+01:00",
+                    "end": "2023-03-15T02:10:00+01:00"
+                },
+                {
+                    "title": "Vikings",
+                    "id": "dummy_program_id_285",
+                    "start": "2023-03-15T02:10:00+01:00",
+                    "end": "2023-03-15T02:30:00+01:00"
+                },
+                {
+                    "title": "Supernatural",
+                    "id": "dummy_program_id_286",
+                    "start": "2023-03-15T02:30:00+01:00",
+                    "end": "2023-03-15T03:10:00+01:00"
+                },
+                {
+                    "title": "Awesome Program",
+                    "id": "dummy_program_id_287",
+                    "start": "2023-03-15T03:10:00+01:00",
+                    "end": "2023-03-15T04:00:00+01:00"
+                },
+                {
+                    "title": "Vikings",
+                    "id": "dummy_program_id_288",
+                    "start": "2023-03-15T04:00:00+01:00",
+                    "end": "2023-03-15T04:20:00+01:00"
+                },
+                {
+                    "title": "Game of Thrones",
+                    "id": "dummy_program_id_289",
+                    "start": "2023-03-15T04:20:00+01:00",
+                    "end": "2023-03-15T05:10:00+01:00"
+                },
+                {
+                    "title": "Vikings",
+                    "id": "dummy_program_id_290",
+                    "start": "2023-03-15T05:10:00+01:00",
+                    "end": "2023-03-15T05:40:00+01:00"
+                },
+                {
+                    "title": "Vikings",
+                    "id": "dummy_program_id_291",
+                    "start": "2023-03-15T05:40:00+01:00",
+                    "end": "2023-03-15T06:30:00+01:00"
+                },
+                {
+                    "title": "Vikings",
+                    "id": "dummy_program_id_292",
+                    "start": "2023-03-15T06:30:00+01:00",
+                    "end": "2023-03-15T07:10:00+01:00"
+                },
+                {
+                    "title": "Awesome Program",
+                    "id": "dummy_program_id_293",
+                    "start": "2023-03-15T07:10:00+01:00",
+                    "end": "2023-03-15T07:40:00+01:00"
+                },
+                {
+                    "title": "Supernatural",
+                    "id": "dummy_program_id_294",
+                    "start": "2023-03-15T07:40:00+01:00",
+                    "end": "2023-03-15T08:00:00+01:00"
+                },
+                {
+                    "title": "Cool Stuff",
+                    "id": "dummy_program_id_295",
+                    "start": "2023-03-15T08:00:00+01:00",
+                    "end": "2023-03-15T08:30:00+01:00"
+                },
+                {
+                    "title": "Cool Stuff",
+                    "id": "dummy_program_id_296",
+                    "start": "2023-03-15T08:30:00+01:00",
+                    "end": "2023-03-15T09:20:00+01:00"
+                },
+                {
+                    "title": "Game of Thrones",
+                    "id": "dummy_program_id_297",
+                    "start": "2023-03-15T09:20:00+01:00",
+                    "end": "2023-03-15T09:50:00+01:00"
+                },
+                {
+                    "title": "Game of Thrones",
+                    "id": "dummy_program_id_298",
+                    "start": "2023-03-15T09:50:00+01:00",
+                    "end": "2023-03-15T10:20:00+01:00"
+                },
+                {
+                    "title": "Cool Stuff",
+                    "id": "dummy_program_id_299",
+                    "start": "2023-03-15T10:20:00+01:00",
+                    "end": "2023-03-15T11:00:00+01:00"
+                },
+                {
+                    "title": "Awesome Program",
+                    "id": "dummy_program_id_300",
+                    "start": "2023-03-15T11:00:00+01:00",
+                    "end": "2023-03-15T11:30:00+01:00"
+                },
+                {
+                    "title": "Supernatural",
+                    "id": "dummy_program_id_301",
+                    "start": "2023-03-15T11:30:00+01:00",
+                    "end": "2023-03-15T12:20:00+01:00"
+                },
+                {
+                    "title": "Game of Thrones",
+                    "id": "dummy_program_id_302",
+                    "start": "2023-03-15T12:20:00+01:00",
+                    "end": "2023-03-15T13:10:00+01:00"
+                },
+                {
+                    "title": "Supernatural",
+                    "id": "dummy_program_id_303",
+                    "start": "2023-03-15T13:10:00+01:00",
+                    "end": "2023-03-15T13:40:00+01:00"
+                },
+                {
+                    "title": "Cool Stuff",
+                    "id": "dummy_program_id_304",
+                    "start": "2023-03-15T13:40:00+01:00",
+                    "end": "2023-03-15T14:00:00+01:00"
+                },
+                {
+                    "title": "Interesting Show",
+                    "id": "dummy_program_id_305",
+                    "start": "2023-03-15T14:00:00+01:00",
+                    "end": "2023-03-15T14:20:00+01:00"
+                },
+                {
+                    "title": "Vikings",
+                    "id": "dummy_program_id_306",
+                    "start": "2023-03-15T14:20:00+01:00",
+                    "end": "2023-03-15T15:10:00+01:00"
+                },
+                {
+                    "title": "Vikings",
+                    "id": "dummy_program_id_307",
+                    "start": "2023-03-15T15:10:00+01:00",
+                    "end": "2023-03-15T15:50:00+01:00"
+                },
+                {
+                    "title": "Supernatural",
+                    "id": "dummy_program_id_308",
+                    "start": "2023-03-15T15:50:00+01:00",
+                    "end": "2023-03-15T16:40:00+01:00"
+                },
+                {
+                    "title": "Cool Stuff",
+                    "id": "dummy_program_id_309",
+                    "start": "2023-03-15T16:40:00+01:00",
+                    "end": "2023-03-15T17:00:00+01:00"
+                },
+                {
+                    "title": "Awesome Program",
+                    "id": "dummy_program_id_310",
+                    "start": "2023-03-15T17:00:00+01:00",
+                    "end": "2023-03-15T17:20:00+01:00"
+                },
+                {
+                    "title": "Vikings",
+                    "id": "dummy_program_id_311",
+                    "start": "2023-03-15T17:20:00+01:00",
+                    "end": "2023-03-15T18:10:00+01:00"
+                },
+                {
+                    "title": "Supernatural",
+                    "id": "dummy_program_id_312",
+                    "start": "2023-03-15T18:10:00+01:00",
+                    "end": "2023-03-15T19:00:00+01:00"
+                },
+                {
+                    "title": "Supernatural",
+                    "id": "dummy_program_id_313",
+                    "start": "2023-03-15T19:00:00+01:00",
+                    "end": "2023-03-15T19:50:00+01:00"
+                },
+                {
+                    "title": "Vikings",
+                    "id": "dummy_program_id_314",
+                    "start": "2023-03-15T19:50:00+01:00",
+                    "end": "2023-03-15T20:30:00+01:00"
+                },
+                {
+                    "title": "Cool Stuff",
+                    "id": "dummy_program_id_315",
+                    "start": "2023-03-15T20:30:00+01:00",
+                    "end": "2023-03-15T20:50:00+01:00"
+                },
+                {
+                    "title": "Supernatural",
+                    "id": "dummy_program_id_316",
+                    "start": "2023-03-15T20:50:00+01:00",
+                    "end": "2023-03-15T21:20:00+01:00"
+                },
+                {
+                    "title": "Game of Thrones",
+                    "id": "dummy_program_id_317",
+                    "start": "2023-03-15T21:20:00+01:00",
+                    "end": "2023-03-15T22:00:00+01:00"
+                },
+                {
+                    "title": "Game of Thrones",
+                    "id": "dummy_program_id_318",
+                    "start": "2023-03-15T22:00:00+01:00",
+                    "end": "2023-03-15T22:40:00+01:00"
+                },
+                {
+                    "title": "Game of Thrones",
+                    "id": "dummy_program_id_319",
+                    "start": "2023-03-15T22:40:00+01:00",
+                    "end": "2023-03-15T23:30:00+01:00"
+                }
+            ]
+        },
+        {
+            "id": "musicChannel",
+            "title": "Music Channel",
+            "images": {
+                "logo": "http://www.mariogonzalezduarte.es/nm-epg-images/logo-channels/m-channel.png"
+            },
+            "schedules": [
+                {
+                    "title": "Interesting Show",
+                    "id": "dummy_program_id_320",
+                    "start": "2023-03-15T00:00:00+01:00",
+                    "end": "2023-03-15T00:50:00+01:00"
+                },
+                {
+                    "title": "Game of Thrones",
+                    "id": "dummy_program_id_321",
+                    "start": "2023-03-15T00:50:00+01:00",
+                    "end": "2023-03-15T01:40:00+01:00"
+                },
+                {
+                    "title": "Interesting Show",
+                    "id": "dummy_program_id_322",
+                    "start": "2023-03-15T01:40:00+01:00",
+                    "end": "2023-03-15T02:30:00+01:00"
+                },
+                {
+                    "title": "Vikings",
+                    "id": "dummy_program_id_323",
+                    "start": "2023-03-15T02:30:00+01:00",
+                    "end": "2023-03-15T03:00:00+01:00"
+                },
+                {
+                    "title": "Vikings",
+                    "id": "dummy_program_id_324",
+                    "start": "2023-03-15T03:00:00+01:00",
+                    "end": "2023-03-15T03:40:00+01:00"
+                },
+                {
+                    "title": "Game of Thrones",
+                    "id": "dummy_program_id_325",
+                    "start": "2023-03-15T03:40:00+01:00",
+                    "end": "2023-03-15T04:30:00+01:00"
+                },
+                {
+                    "title": "Game of Thrones",
+                    "id": "dummy_program_id_326",
+                    "start": "2023-03-15T04:30:00+01:00",
+                    "end": "2023-03-15T05:10:00+01:00"
+                },
+                {
+                    "title": "Awesome Program",
+                    "id": "dummy_program_id_327",
+                    "start": "2023-03-15T05:10:00+01:00",
+                    "end": "2023-03-15T05:40:00+01:00"
+                },
+                {
+                    "title": "Game of Thrones",
+                    "id": "dummy_program_id_328",
+                    "start": "2023-03-15T05:40:00+01:00",
+                    "end": "2023-03-15T06:30:00+01:00"
+                },
+                {
+                    "title": "Supernatural",
+                    "id": "dummy_program_id_329",
+                    "start": "2023-03-15T06:30:00+01:00",
+                    "end": "2023-03-15T07:20:00+01:00"
+                },
+                {
+                    "title": "Vikings",
+                    "id": "dummy_program_id_330",
+                    "start": "2023-03-15T07:20:00+01:00",
+                    "end": "2023-03-15T07:40:00+01:00"
+                },
+                {
+                    "title": "Supernatural",
+                    "id": "dummy_program_id_331",
+                    "start": "2023-03-15T07:40:00+01:00",
+                    "end": "2023-03-15T08:10:00+01:00"
+                },
+                {
+                    "title": "Cool Stuff",
+                    "id": "dummy_program_id_332",
+                    "start": "2023-03-15T08:10:00+01:00",
+                    "end": "2023-03-15T08:30:00+01:00"
+                },
+                {
+                    "title": "Awesome Program",
+                    "id": "dummy_program_id_333",
+                    "start": "2023-03-15T08:30:00+01:00",
+                    "end": "2023-03-15T09:00:00+01:00"
+                },
+                {
+                    "title": "Game of Thrones",
+                    "id": "dummy_program_id_334",
+                    "start": "2023-03-15T09:00:00+01:00",
+                    "end": "2023-03-15T09:50:00+01:00"
+                },
+                {
+                    "title": "Cool Stuff",
+                    "id": "dummy_program_id_335",
+                    "start": "2023-03-15T09:50:00+01:00",
+                    "end": "2023-03-15T10:30:00+01:00"
+                },
+                {
+                    "title": "Awesome Program",
+                    "id": "dummy_program_id_336",
+                    "start": "2023-03-15T10:30:00+01:00",
+                    "end": "2023-03-15T10:50:00+01:00"
+                },
+                {
+                    "title": "Supernatural",
+                    "id": "dummy_program_id_337",
+                    "start": "2023-03-15T10:50:00+01:00",
+                    "end": "2023-03-15T11:20:00+01:00"
+                },
+                {
+                    "title": "Vikings",
+                    "id": "dummy_program_id_338",
+                    "start": "2023-03-15T11:20:00+01:00",
+                    "end": "2023-03-15T11:40:00+01:00"
+                },
+                {
+                    "title": "Game of Thrones",
+                    "id": "dummy_program_id_339",
+                    "start": "2023-03-15T11:40:00+01:00",
+                    "end": "2023-03-15T12:10:00+01:00"
+                },
+                {
+                    "title": "Game of Thrones",
+                    "id": "dummy_program_id_340",
+                    "start": "2023-03-15T12:10:00+01:00",
+                    "end": "2023-03-15T13:00:00+01:00"
+                },
+                {
+                    "title": "Vikings",
+                    "id": "dummy_program_id_341",
+                    "start": "2023-03-15T13:00:00+01:00",
+                    "end": "2023-03-15T13:30:00+01:00"
+                },
+                {
+                    "title": "Interesting Show",
+                    "id": "dummy_program_id_342",
+                    "start": "2023-03-15T13:30:00+01:00",
+                    "end": "2023-03-15T14:00:00+01:00"
+                },
+                {
+                    "title": "Cool Stuff",
+                    "id": "dummy_program_id_343",
+                    "start": "2023-03-15T14:00:00+01:00",
+                    "end": "2023-03-15T14:50:00+01:00"
+                },
+                {
+                    "title": "Vikings",
+                    "id": "dummy_program_id_344",
+                    "start": "2023-03-15T14:50:00+01:00",
+                    "end": "2023-03-15T15:40:00+01:00"
+                },
+                {
+                    "title": "Game of Thrones",
+                    "id": "dummy_program_id_345",
+                    "start": "2023-03-15T15:40:00+01:00",
+                    "end": "2023-03-15T16:00:00+01:00"
+                },
+                {
+                    "title": "Vikings",
+                    "id": "dummy_program_id_346",
+                    "start": "2023-03-15T16:00:00+01:00",
+                    "end": "2023-03-15T16:30:00+01:00"
+                },
+                {
+                    "title": "Supernatural",
+                    "id": "dummy_program_id_347",
+                    "start": "2023-03-15T16:30:00+01:00",
+                    "end": "2023-03-15T17:00:00+01:00"
+                },
+                {
+                    "title": "Supernatural",
+                    "id": "dummy_program_id_348",
+                    "start": "2023-03-15T17:00:00+01:00",
+                    "end": "2023-03-15T17:50:00+01:00"
+                },
+                {
+                    "title": "Supernatural",
+                    "id": "dummy_program_id_349",
+                    "start": "2023-03-15T17:50:00+01:00",
+                    "end": "2023-03-15T18:30:00+01:00"
+                },
+                {
+                    "title": "Game of Thrones",
+                    "id": "dummy_program_id_350",
+                    "start": "2023-03-15T18:30:00+01:00",
+                    "end": "2023-03-15T18:50:00+01:00"
+                },
+                {
+                    "title": "Game of Thrones",
+                    "id": "dummy_program_id_351",
+                    "start": "2023-03-15T18:50:00+01:00",
+                    "end": "2023-03-15T19:10:00+01:00"
+                },
+                {
+                    "title": "Cool Stuff",
+                    "id": "dummy_program_id_352",
+                    "start": "2023-03-15T19:10:00+01:00",
+                    "end": "2023-03-15T19:50:00+01:00"
+                },
+                {
+                    "title": "Cool Stuff",
+                    "id": "dummy_program_id_353",
+                    "start": "2023-03-15T19:50:00+01:00",
+                    "end": "2023-03-15T20:10:00+01:00"
+                },
+                {
+                    "title": "Awesome Program",
+                    "id": "dummy_program_id_354",
+                    "start": "2023-03-15T20:10:00+01:00",
+                    "end": "2023-03-15T20:40:00+01:00"
+                },
+                {
+                    "title": "Awesome Program",
+                    "id": "dummy_program_id_355",
+                    "start": "2023-03-15T20:40:00+01:00",
+                    "end": "2023-03-15T21:10:00+01:00"
+                },
+                {
+                    "title": "Awesome Program",
+                    "id": "dummy_program_id_356",
+                    "start": "2023-03-15T21:10:00+01:00",
+                    "end": "2023-03-15T21:50:00+01:00"
+                },
+                {
+                    "title": "Supernatural",
+                    "id": "dummy_program_id_357",
+                    "start": "2023-03-15T21:50:00+01:00",
+                    "end": "2023-03-15T22:40:00+01:00"
+                },
+                {
+                    "title": "Interesting Show",
+                    "id": "dummy_program_id_358",
+                    "start": "2023-03-15T22:40:00+01:00",
+                    "end": "2023-03-15T23:30:00+01:00"
+                }
+            ]
+        }
+    ]
+}

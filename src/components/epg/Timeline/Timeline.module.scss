@@ -1,0 +1,49 @@
+@import '../../../scss/_variables';
+
+.timeline-wrapper {
+    padding-left: 100px;
+    z-index: 100;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    height: 60px;
+    width: $timelineWidth;
+    background: $epg-bgcolor;
+
+    .timeline-box {
+        width: 300px;
+        font-size: 14px;
+        position: relative;
+
+        .timeline-time {
+            color: #a0aec0;
+            position: absolute;
+            top: 18px;
+            left: -18px;
+        }
+
+        &:first-of-type .timeline-time {
+            left: 0px;
+        }
+
+        .timeline-dividers {
+            height: 100%;
+            width: 100%;
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+            -webkit-align-items: end;
+            -webkit-box-align: end;
+            -ms-flex-align: end;
+            align-items: end;
+            padding-bottom: 6px;
+
+            .timeline-divider {
+                background: #718096;
+                height: 10px;
+                width: 1px;
+                margin-right: 75px;
+            }
+        }
+    }
+}

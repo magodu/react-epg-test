@@ -1,0 +1,227 @@
+@import '../../../scss/_variables';
+
+.epg {
+    height: 80vh;
+    width: 100%;
+
+    scroll-behavior: smooth;
+
+    ::-webkit-scrollbar {
+        width: 10px;
+        height: 10px;
+    }
+    ::-webkit-scrollbar-thumb {
+        background: #e1e1e1;
+        border: 10px none white;
+        border-radius: 20px;
+    }
+    ::-webkit-scrollbar-thumb:hover {
+        background: white;
+    }
+    ::-webkit-scrollbar-track {
+        background: $epg-bgcolor;
+        border: 22px none white;
+        border-radius: 0px;
+    }
+    ::-webkit-scrollbar-corner {
+        background: $epg-bgcolor;
+    }
+
+    .filters {
+        padding: 0.5rem 2rem;
+        height: 8vh;
+        .date {
+            width: 20%;
+
+            select {
+                height: 30px;
+                padding: 2px;
+                color: white;
+                background: black;
+                font-size: 15px;
+
+                &:focus {
+                    color: white;
+                    background: black;
+                    border-color: white;
+                    outline: 0;
+                    box-shadow: none;
+                }
+            }
+        }
+    }
+
+    .epg-container {
+        height: 72vh;
+        width: 100%;
+
+        .wrapper {
+            height: 100%;
+            width: 100%;
+            display: flex;
+            -webkit-flex-direction: column;
+            -ms-flex-direction: column;
+            flex-direction: column;
+            position: relative;
+            border-radius: 6px;
+            overflow: hidden;
+
+            .current-time-button-wrapper {
+                position: absolute;
+                bottom: 0;
+                right: 0;
+                padding: 2rem;
+                z-index: 10;
+
+                .current-time-button {
+                    background-color: $epg-current-time;
+                    color: #fff;
+                    font-weight: 600;
+                    font-size: 20px;
+                    border: none;
+                    border-radius: 10px;
+                    padding: 12px;
+                    min-height: 30px;
+                    min-width: 100px;
+                    text-transform: uppercase;
+                    cursor: pointer;
+
+                    &:hover {
+                        background-color: #f9a900;
+                        transition: 0.7s;
+                    }
+                }
+            }
+
+            .box {
+                position: absolute;
+                height: 60px;
+                width: 100px;
+                top: 0px;
+                left: 0px;
+                background: $epg-bgcolor;
+                z-index: 15;
+            }
+
+            .scroll-box {
+                height: 100%;
+                width: 100%;
+                position: relative;
+                overflow: auto;
+                scroll-behavior: smooth;
+                background: $epg-bgcolor;
+
+                .current-time-vertical-line {
+                    border-left: 1px solid $epg-current-time;
+                    height: 100vh;
+                    left: 100px;
+                    margin-top: 43px;
+                    position: absolute;
+                    z-index: 12;
+
+                    .marker {
+                        position: absolute;
+                        top: -8px;
+                        left: -2px;
+                        background: #e1a21e;
+                        border-radius: 5px;
+                        width: 3px;
+                        height: 25px;
+                        z-index: 10;
+                    }
+                }
+
+                .content {
+                    background: $epg-bgcolor;
+                    height: auto;
+                    width: $timelineWidth;
+                    position: relative;
+
+                    .channel-content {
+                        padding-left: 100px;
+                        border-top: 1px solid #404040;
+                        border-left: 1px solid #404040;
+
+                        ul {
+                            display: inline-flex;
+                            list-style-type: none;
+                            width: $timelineWidth;
+                            overflow: hidden;
+                            margin: 0;
+                            padding: 0;
+
+                            li.program-box {
+                                padding: 4px 4px 4px 0;
+
+                                .program-content {
+                                    position: relative;
+                                    display: -webkit-box;
+                                    display: -webkit-flex;
+                                    display: -ms-flexbox;
+                                    display: flex;
+                                    font-size: 11px;
+                                    height: 100%;
+                                    border-radius: 8px;
+                                    padding: 10px 20px;
+                                    overflow: hidden;
+                                    cursor: pointer;
+                                    -webkit-transition: all 0.4s ease-in-out;
+                                    transition: all 0.4s ease-in-out;
+                                    z-index: 1;
+                                    background: linear-gradient(to right, #1a202c, #1a202c);
+
+                                    &.active {
+                                        background: linear-gradient(to right, #051937, #002360);
+                                    } 
+                                    
+                                    &:hover {
+                                        background: linear-gradient(to right, #051937, #104db9);
+                                    }
+
+                                    .program-flex {
+                                        width: 100%;
+                                        display: -webkit-box;
+                                        display: -webkit-flex;
+                                        display: -ms-flexbox;
+                                        display: flex;
+                                        -webkit-box-pack: start;
+                                        -ms-flex-pack: start;
+                                        -webkit-justify-content: flex-start;
+                                        justify-content: flex-start;
+
+                                        .program-stack {
+                                            overflow: hidden;
+
+                                            .program-title {
+                                                font-size: 14px;
+                                                font-weight: 400;
+                                                text-align: left;
+                                                margin-top: 0;
+                                                margin-bottom: 5px;
+                                                font-weight: 500;
+                                                color: $main-text-color;
+                                                white-space: nowrap;
+                                                overflow: hidden;
+                                                text-overflow: ellipsis;
+                                            }
+                                            .program-text {
+                                                display: block;
+                                                font-size: 12.5px;
+                                                font-weight: 400;
+                                                color: #718096;
+                                                text-align: left;
+                                                white-space: nowrap;
+                                                overflow: hidden;
+                                                text-overflow: ellipsis;
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

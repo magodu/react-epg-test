@@ -1,0 +1,21 @@
+@import '../../../scss/_variables';
+
+.current-time-vertical-line {
+    border-left: 1px solid $epg-current-time;
+    height: 100vh;
+    left: 100px;
+    margin-top: 43px;
+    position: absolute;
+    z-index: 12;
+
+    .marker {
+        position: absolute;
+        top: -8px;
+        left: -2px;
+        background: #e1a21e;
+        border-radius: 5px;
+        width: 3px;
+        height: 25px;
+        z-index: 10;
+    }
+}

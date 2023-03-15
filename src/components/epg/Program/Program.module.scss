@@ -1,0 +1,72 @@
+@import '../../../scss/_variables';
+
+li.program-box {
+    padding: 0;
+
+    .program-content {
+        position: relative;
+        display: flex;
+        font-size: 11px;
+        height: 80px;
+        border-right: 1px solid #404040;
+        border-bottom: 1px solid #404040;
+        padding: 10px 20px;
+        overflow: hidden;
+        cursor: pointer;
+        -webkit-transition: all 0.4s ease-in-out;
+        transition: all 0.4s ease-in-out;
+        z-index: 1;
+        background: linear-gradient(to right, #1a202c, #1a202c);
+
+        &.active {
+            background: linear-gradient(to right, #051937, #002360);
+        } 
+        
+        &:hover {
+            background: linear-gradient(to right, #051937, #104db9);
+        }
+
+        .program-flex {
+            width: 100%;
+            display: -webkit-box;
+            display: -webkit-flex;
+            display: -ms-flexbox;
+            display: flex;
+            -webkit-box-pack: start;
+            -ms-flex-pack: start;
+            -webkit-justify-content: flex-start;
+            justify-content: flex-start;
+
+            .program-stack {
+                overflow: hidden;
+
+                .program-title {
+                    font-size: 14px;
+                    font-weight: 400;
+                    text-align: left;
+                    margin-top: 0;
+                    margin-bottom: 5px;
+                    font-weight: 500;
+                    color: $main-text-color;
+                    white-space: nowrap;
+                    overflow: hidden;
+                    text-overflow: ellipsis;
+                }
+                .program-text {
+                    display: block;
+                    font-size: 12.5px;
+                    font-weight: 400;
+                    color: #718096;
+                    text-align: left;
+                    white-space: nowrap;
+                    overflow: hidden;
+                    text-overflow: ellipsis;
+                }
+            }
+        }
+    }
+
+    &:first-child  .program-content {
+        border-left: 1px solid #404040;
+    }
+}
