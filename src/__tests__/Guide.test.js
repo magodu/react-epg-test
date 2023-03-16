@@ -57,15 +57,6 @@ describe('Guide component', () => {
         await waitFor(() => {
             expect(result.current.response).toEqual('');
         });
-
-        // const sendFormSpy = jest.spyOn(global, 'fetch').mockResolvedValueOnce({ json: jest.fn() });
-        //renderComponent();
-        // await waitFor(() => {
-        //    expect(sendFormSpy).toHaveBeenCalledTimes(1);
-        //   expect(sendFormSpy).toHaveBeenCalledWith(url);
-        // });
-
-        //sendFormSpy.mockRestore();
     });
 
     test('should pass data received to ChannelList component and rendered it', async () => {
@@ -75,6 +66,7 @@ describe('Guide component', () => {
         };
 
         global.fetch = jest.fn().mockResolvedValue(mResponse);
+
         renderComponent();
 
         expect(screen.getByTestId('loading')).toBeInTheDocument();
