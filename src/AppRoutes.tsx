@@ -2,6 +2,7 @@ import { lazy, Suspense } from 'react';
 import { Route, Routes, Navigate } from 'react-router-dom';
 
 import Spinner from './components/UI/Spinner/Spinner';
+import NotFound from './pages/NotFound/NotFound';
 
 const Home = lazy(() => import('./pages/Home/Home'));
 const Guide = lazy(() => import('./pages/Guide/Guide'));
@@ -18,6 +19,7 @@ const AppRoutes = () => {
             <Route path="/guide" element={<Suspense fallback={<Spinner />}><Guide /></Suspense>} />
             <Route path="/watch-again" element={<Suspense fallback={<Spinner />}><WatchAgain /></Suspense>} />
             <Route path="/favorites" element={<Suspense fallback={<Spinner />}><Favorites /></Suspense>}  />
+            <Route path='*' element={<NotFound />} />
         </Routes>
     );
 };
