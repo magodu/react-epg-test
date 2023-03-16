@@ -9,7 +9,7 @@ import CurrentTimeLine from '../CurrentTimeLine/CurrentTimeLine';
 
 import { EpgContext } from '../../../store/epg-context';
 
-import { epgData } from '../../../models/appTypes';
+import { epgData, channelData } from '../../../models/appTypes';
 import { getCurrentTimeOffset } from '../../../utils';
 
 import classes from './ChannelsList.module.scss';
@@ -19,6 +19,8 @@ const ChannelsList: React.FC<{ data: epgData[] }> = ({ data }) => {
     const [ searchIsShown, setSearchIsShown ] = useState<boolean>(false);
     const [ filteredData, setFilteredData ] = useState<any[]>([]);
     const offset = 100;
+
+    let channelsList: channelData[] = [];
 
     const setCurrentScrollPositionHandler = () => {
         let elem = document.getElementById('scrollableElem');
@@ -43,6 +45,14 @@ const ChannelsList: React.FC<{ data: epgData[] }> = ({ data }) => {
         setFilteredData(result);
 
     }, [searchQuery, data]);
+
+    channelsList = data && data.map((channel: epgData) => {
+        return {
+            id: channel.id,
+            title: channel.title,
+            images: channel.images
+        }
+    });
    
     useEffect(() => {
         if (data) {
@@ -77,7 +87,7 @@ const ChannelsList: React.FC<{ data: epgData[] }> = ({ data }) => {
                         <div className={classes['scroll-box']} id="scrollableElem">
                             <CurrentTimeLine />
                             <Timeline />
-                            <Sidebar data={data} />
+                            <Sidebar data={channelsList} />
 
                             <div data-testid="content" className={classes.content}>
                                 <div className={classes['channel-content']}>

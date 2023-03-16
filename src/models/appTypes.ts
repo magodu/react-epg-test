@@ -29,6 +29,12 @@ export interface epgData {
     schedules: programEpg[];
 }
 
+export interface channelData {
+    id: string;
+    title: string;
+    images: channelLogo;
+}
+
 export interface epgFilteredData {
     channelId: string;
     channel: string;
