@@ -7,14 +7,18 @@ const useFetch = (url: string ) => {
 
     useEffect(() => {
         setIsLoading(true);
+        setError(false);
         fetch(url).then(async (res) => {
-            if (res.status !== 200) {
+            try {
+                const data = await res.json();
+                setResponse(data);
+                setIsLoading(false);
+            } catch (error) {
+                console.error('An error happened during fetching from', url);
                 setError(true);
+            } finally {
                 setIsLoading(false);
             }
-            const data = await res.json();
-            setResponse(data);
-            setIsLoading(false);
         });
     }, [setResponse, url]);
 
