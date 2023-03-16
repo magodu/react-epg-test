@@ -9,10 +9,10 @@ export const calculateProgramWidth = (startDate: string, endDate: string): numbe
     const endDateUtc = Date.parse(endDate);
     const millisecondsDiff = endDateUtc - startDateUtc;
 
-    const horas = Math.floor(millisecondsDiff / millisecondsInHour);
-    const minutos = Math.floor((millisecondsDiff % millisecondsInHour) / millisecondsInMinute);
+    const hours = Math.floor(millisecondsDiff / millisecondsInHour);
+    const minutes = Math.floor((millisecondsDiff % millisecondsInHour) / millisecondsInMinute);
 
-    return (horas * 60 + minutos) * 5;
+    return (hours * 60 + minutes) * 5;
 };
 
 export const getCurrentTime = (): number => {
