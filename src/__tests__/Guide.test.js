@@ -74,13 +74,16 @@ describe('Guide component', () => {
     });
 
     xtest('should show an error if fetch call fails', async () => {
-        window.fetch = jest.fn();
-        window.fetch.mockRejectedValue(() => Promise.reject('API error'));
+        jest.spyOn(global, "fetch").mockImplementation(() =>
+        Promise.resolve({
+                json: () => Promise.reject('Error occurred!')
+            })
+        );
 
         renderComponent();
 
         await waitFor(() => {
-            const errorText = screen.queryByText('An error has ocurred');
+            const errorText = screen.queryByText('An error has occurred');
             expect(errorText).toBeInTheDocument();
         });
     });

@@ -31,14 +31,6 @@ const mockData = {
 };
 
 describe('useFetch custom hook', () => {
-    // beforeEach(() => {
-    //     global.fetch = jest.fn(() =>
-    //         Promise.resolve({
-    //             json: () => act(() => Promise.resolve(mockData)),
-    //             status: 200
-    //         })
-    //     );
-    // });
 
     afterEach(() => {
         global.fetch.mockClear();
@@ -83,9 +75,9 @@ describe('useFetch custom hook', () => {
     });
 
     test('should set error to true when fetching fails', async () => {
-        jest.spyOn(global, "fetch").mockImplementation(() =>
+        jest.spyOn(global, 'fetch').mockImplementation(() =>
             Promise.resolve({
-                json: () => Promise.reject('Error occured!'),
+                json: () => Promise.reject('Error occurred!'),
             })
         );
 
