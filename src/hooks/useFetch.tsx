@@ -14,7 +14,7 @@ const useFetch = (url: string ) => {
                 setResponse(data);
                 setIsLoading(false);
             } catch (error) {
-                console.error('An error happened during fetching from', url);
+                console.log('An error happened during fetching from', url);
                 setError(true);
             } finally {
                 setIsLoading(false);
